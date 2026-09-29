@@ -1,0 +1,432 @@
+Using pre-set license
+Built from '6000.0/staging' branch; Version is '6000.0.33f1 (433b0a79340b) revision 4406026'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit Professional' Language: 'ko' Physical Memory: 8033 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.0.33f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+C:/Users/ABBA/Documents/GitHub/Back_End/Catch and Tame
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+59516
+-job-worker-count
+5
+-background-job-worker-count
+8
+-gc-helper-count
+1
+Successfully changed project path to: C:/Users/ABBA/Documents/GitHub/Back_End/Catch and Tame
+C:/Users/ABBA/Documents/GitHub/Back_End/Catch and Tame
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [12732]  Target information:
+
+Player connection [12732]  * "[IP] 192.168.123.65 [Port] 0 [Flags] 2 [Guid] 2981082547 [EditorId] 2981082547 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-4I4QUBN) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [12732] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [12732] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 5
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 479.75 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.33f1 (433b0a79340b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.33f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/ABBA/Documents/GitHub/Back_End/Catch and Tame/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 (ID=0x2504)
+    Vendor:   NVIDIA
+    VRAM:     12113 MB
+    Driver:   32.0.16.1062
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.33f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.33f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.33f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56676
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.33f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.33f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.33f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Registered in 0.384962 seconds.
+- Loaded All Assemblies, in  8.847 seconds
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+Native extension for iOS target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 439 ms
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.004 seconds
+Domain Reload Profiling: 9849ms
+	BeginReloadAssembly (6505ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (364ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (439ms)
+	LoadAllAssembliesAndSetupDomain (1519ms)
+		LoadAssemblies (6504ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (1512ms)
+			TypeCache.Refresh (1510ms)
+				TypeCache.ScanAssembly (1240ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (1005ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (973ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (745ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (44ms)
+			ProcessInitializeOnLoadAttributes (115ms)
+			ProcessInitializeOnLoadMethodAttributes (65ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in 10.697 seconds
+<color>[FusionEditor/Import]</color> Can't update custom dependencies in a worker process (Fusion/NetworkObjectPostprocessor)
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+Fusion.FusionEditorLog:ErrorImport (string)
+Fusion.Editor.FusionCustomDependency:Refresh (bool) (at Assets/Photon/Fusion/Editor/Fusion.Unity.Editor.cs:5007)
+Fusion.Editor.NetworkObjectPostprocessor:.cctor () (at Assets/Photon/Fusion/Editor/Fusion.Unity.Editor.cs:17113)
+System.Reflection.RuntimeConstructorInfo:InternalInvoke (object,object[],bool)
+System.RuntimeType:CreateInstanceMono (bool,bool)
+System.RuntimeType:CreateInstanceSlow (bool,bool,bool,bool)
+System.RuntimeType:CreateInstanceDefaultCtor (bool,bool,bool,bool,System.Threading.StackCrawlMark&)
+System.Activator:CreateInstance (System.Type,bool,bool)
+System.Activator:CreateInstance (System.Type,bool)
+System.Activator:CreateInstance (System.Type)
+UnityEditor.AssetPostprocessor/PostprocessorInfo:.ctor (System.Type,string[])
+UnityEditor.AssetPostprocessingInternal:GetSortedPostprocessorTypes (System.Type,System.Collections.Generic.Dictionary`2<System.Type, string[]>,string[],System.Collections.Generic.Dictionary`2<System.Type, System.Collections.Generic.SortedSet`1<UnityEditor.AssetPostprocessor/PostprocessorInfo>>)
+UnityEditor.AssetPostprocessingInternal:GetSortedStaticPostprocessorTypes (System.Type)
+UnityEditor.AssetPostprocessingInternal:GetPrefabProcessorsHashString ()
+
+(Filename: Assets/Photon/Fusion/Editor/Fusion.Unity.Editor.cs Line: 5007)
+
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 5.68 ms, found 6 plugins.
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Refreshing native plugins compatible for Editor in 7.74 ms, found 6 plugins.
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.669 seconds
+Domain Reload Profiling: 12358ms
+	BeginReloadAssembly (212ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (8ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (34ms)
+	RebuildCommonClasses (41ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (70ms)
+	LoadAllAssembliesAndSetupDomain (10352ms)
+		LoadAssemblies (9669ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (818ms)
+			TypeCache.Refresh (704ms)
+				TypeCache.ScanAssembly (677ms)
+			BuildScriptInfoCaches (95ms)
+			ResolveRequiredComponents (14ms)
+	FinalizeReload (1669ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1127ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (20ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (138ms)
+			ProcessInitializeOnLoadAttributes (553ms)
+			ProcessInitializeOnLoadMethodAttributes (405ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (11ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 7.00 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 226 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7661 unused Assets / (4.7 MB). Loaded Objects now: 8368.
+Memory consumption went from 193.1 MB to 188.3 MB.
+Total: 32.195000 ms (FindLiveObjects: 17.162900 ms CreateObjectMapping: 1.812400 ms MarkObjects: 7.889400 ms  DeleteObjects: 5.328200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 371157.197856 seconds.
+  path: Assets/Prefab/Box.prefab
+  artifactKey: Guid(2595efae4b7b77c40bff8943124f6af0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Box.prefab using Guid(2595efae4b7b77c40bff8943124f6af0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '61e3a81dd22b0b22f603e123482a9db4') in 0.5788773 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.111946 seconds.
+  path: Assets/Full Game Pack/Sprites/Shapes
+  artifactKey: Guid(5c936cfdf0e45884a955e900fe4110d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Full Game Pack/Sprites/Shapes using Guid(5c936cfdf0e45884a955e900fe4110d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ff087eb145481566706788d885fc9f4e') in 0.0007864 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.038783 seconds.
+  path: Assets/Full Game Pack/Sprites/Shapes/arrow.png
+  artifactKey: Guid(a38fe04e7de8a17408d668366cbb0143) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Full Game Pack/Sprites/Shapes/arrow.png using Guid(a38fe04e7de8a17408d668366cbb0143) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8b005d48d32225c69f09af6e92ea4ac8') in 0.1381473 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Full Game Pack/Sprites/Shapes/Green_Arrow.png
+  artifactKey: Guid(020c589822131f34fab905a2c11267a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Full Game Pack/Sprites/Shapes/Green_Arrow.png using Guid(020c589822131f34fab905a2c11267a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3096b861bd4b076f8e2f599cb3ff4d7b') in 0.0217044 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Full Game Pack/Sprites/Shapes/Table_03.png
+  artifactKey: Guid(e0afd0cddceedfd4393292a2eb4133b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Full Game Pack/Sprites/Shapes/Table_03.png using Guid(e0afd0cddceedfd4393292a2eb4133b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5c7e8ab3a91479720e595dcddf437e15') in 0.0231843 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Full Game Pack/Sprites/Shapes/Platform_03.png
+  artifactKey: Guid(431b945af43b45b45aebbee523787e49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Full Game Pack/Sprites/Shapes/Platform_03.png using Guid(431b945af43b45b45aebbee523787e49) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '21b66e5e04e47033d89c440ac7d50aef') in 0.0188058 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Full Game Pack/Sprites/Shapes/Wood_Wall.png
+  artifactKey: Guid(e192a775096adb9459dc78170996e964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Full Game Pack/Sprites/Shapes/Wood_Wall.png using Guid(e192a775096adb9459dc78170996e964) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '93a450276acd0429c7507715318dc502') in 0.0199532 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Full Game Pack/Sprites/Shapes/White_Wood_Button_1.png
+  artifactKey: Guid(c5c0342221d50734ab840c2e3ee4c01e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Full Game Pack/Sprites/Shapes/White_Wood_Button_1.png using Guid(c5c0342221d50734ab840c2e3ee4c01e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7d921915ec1cb759e0c1d5c44bf6f8f6') in 0.0194418 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Full Game Pack/Sprites/Shapes/Button_01.png
+  artifactKey: Guid(341075bac0d259b4d9bd2330e65e5c65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Full Game Pack/Sprites/Shapes/Button_01.png using Guid(341075bac0d259b4d9bd2330e65e5c65) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c39d5f991ac108cba37f01652918e856') in 0.0211463 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Full Game Pack/Sprites/Shapes/Diamond.png
+  artifactKey: Guid(a5d0be0ae73dd844fa395a603251a505) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Full Game Pack/Sprites/Shapes/Diamond.png using Guid(a5d0be0ae73dd844fa395a603251a505) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'dc8fc22c4a6edf71acd9c7614dc216d0') in 0.0236948 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Full Game Pack/Sprites/Shapes/Brown_Arrow.png
+  artifactKey: Guid(a257e15d2146dad449f88418976e4b02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Full Game Pack/Sprites/Shapes/Brown_Arrow.png using Guid(a257e15d2146dad449f88418976e4b02) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fc87d257699ed01f730fb78e116c7e70') in 0.0178182 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Full Game Pack/Sprites/Shapes/Platform_01.png
+  artifactKey: Guid(adb817e3a36a39748b89acd54630f3ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Full Game Pack/Sprites/Shapes/Platform_01.png using Guid(adb817e3a36a39748b89acd54630f3ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7a0835be5e53e4cc3a47dcabdc7a18a4') in 0.0240262 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/Full Game Pack/Sprites/Shapes/Exit_Door.png
+  artifactKey: Guid(38976586c4079e741bbbc4971d0a8aac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Full Game Pack/Sprites/Shapes/Exit_Door.png using Guid(38976586c4079e741bbbc4971d0a8aac) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '324d2bffa9bc0c203c0e09b60ed625f4') in 0.0229659 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Full Game Pack/Sprites/Shapes/Star_07.png
+  artifactKey: Guid(b2905c27dd36cff45a00f08e58e367c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Full Game Pack/Sprites/Shapes/Star_07.png using Guid(b2905c27dd36cff45a00f08e58e367c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5a04fbe20b2367cb20f528cebe2dc14e') in 0.0191051 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Full Game Pack/Sprites/Shapes/Diamond_09.png
+  artifactKey: Guid(6dff6686a78832a48802605589daecf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Full Game Pack/Sprites/Shapes/Diamond_09.png using Guid(6dff6686a78832a48802605589daecf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cf9d1408a8c092875383b9eb4df4975d') in 0.0178963 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Full Game Pack/Sprites/Shapes/Gear.png
+  artifactKey: Guid(a4f9c6e1b646b054a8fe303c2c32b792) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Full Game Pack/Sprites/Shapes/Gear.png using Guid(a4f9c6e1b646b054a8fe303c2c32b792) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c2397aa6941ad756688c6baf0f520099') in 0.0224571 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/Full Game Pack/Sprites/Shapes/Wooden_Fence.png
+  artifactKey: Guid(439baf64620b8034d9ce02cec52f5110) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Full Game Pack/Sprites/Shapes/Wooden_Fence.png using Guid(439baf64620b8034d9ce02cec52f5110) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'db04f1fb9c0370b481e5e46df0fed346') in 0.0208996 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Full Game Pack/Sprites/Shapes/Table_05.png
+  artifactKey: Guid(a4f69c5da0fc99d46ab1a25c61e8bdaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Full Game Pack/Sprites/Shapes/Table_05.png using Guid(a4f69c5da0fc99d46ab1a25c61e8bdaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '139d235264121cb0749d59fa40aab414') in 0.0228447 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Full Game Pack/Sprites/Shapes/White_Wood_Button_3.png
+  artifactKey: Guid(467f9d70510031a489420a90a06da22f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Full Game Pack/Sprites/Shapes/White_Wood_Button_3.png using Guid(467f9d70510031a489420a90a06da22f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '08b922f5f1308429f7be4878b6fb3150') in 0.0201744 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Full Game Pack/Sprites/Shapes/Door.png
+  artifactKey: Guid(b1202cedd45874e4790c8df063b29b8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Full Game Pack/Sprites/Shapes/Door.png using Guid(b1202cedd45874e4790c8df063b29b8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'eaddf788e380ba0cdd17daaf00a8d476') in 0.0202622 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Full Game Pack/Sprites/Shapes/Wood_Wall_03.png
+  artifactKey: Guid(1a8624742c9ff6b498a4c03eef648804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Full Game Pack/Sprites/Shapes/Wood_Wall_03.png using Guid(1a8624742c9ff6b498a4c03eef648804) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'dd06adda3838deba617e20e0e2c632ae') in 0.0235649 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Full Game Pack/Sprites/Shapes/Ladder.png
+  artifactKey: Guid(d61df0ee225282d4085d6e5f2894b05d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Full Game Pack/Sprites/Shapes/Ladder.png using Guid(d61df0ee225282d4085d6e5f2894b05d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '343057ee6b2894a590efda496572e10e') in 0.0190995 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Full Game Pack/Sprites/Shapes/Table_04.png
+  artifactKey: Guid(72b951c28a11feb40b8e362a74d5b6b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Full Game Pack/Sprites/Shapes/Table_04.png using Guid(72b951c28a11feb40b8e362a74d5b6b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0c7a1382f585f3cd29282f94107f4379') in 0.0206854 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Full Game Pack/Sprites/Shapes/Star_05.png
+  artifactKey: Guid(7d26b9b857b0a5d43a4dc1a7fbfe4f00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Full Game Pack/Sprites/Shapes/Star_05.png using Guid(7d26b9b857b0a5d43a4dc1a7fbfe4f00) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2cb08bb137c0b573c5cd5c900d1edaf8') in 0.0186153 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Full Game Pack/Sprites/Shapes/Wood_Button_4.png
+  artifactKey: Guid(218c16e5cfae77e4c8e898942b1af6af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Full Game Pack/Sprites/Shapes/Wood_Button_4.png using Guid(218c16e5cfae77e4c8e898942b1af6af) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ece3c0ac481a5daf8761a2fe126de5cd') in 0.0236918 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

@@ -1,0 +1,86 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="ExitPanel">
+			<method name="OnClickExitButton"/>
+			<method name="OnClickReturnButton"/>
+		</type>
+		<type fullname="FusionIntroShared.SimpleStartMenu">
+			<method name="StartGameShared"/>
+			<method name="StartGameSingle"/>
+		</type>
+		<type fullname="SettingPanel">
+			<method name="OnClickExitButton"/>
+		</type>
+		<type fullname="SoundManager">
+			<method name="SetBGMVolume"/>
+			<method name="SetSFXVolume"/>
+		</type>
+	</assembly>
+	<assembly fullname="Fusion.Unity" ignoreIfMissing="1">
+		<type fullname="Fusion.Statistics.FusionBehaviourStatisticsPage">
+			<method name="DisplayFixedUpdateNetwork"/>
+			<method name="DisplayFixedUpdateNetwork"/>
+			<method name="OpenAddBehaviourPanel"/>
+		</type>
+		<type fullname="Fusion.Statistics.FusionBehaviourStats">
+			<method name="DeleteBehaviourStat"/>
+		</type>
+		<type fullname="Fusion.Statistics.FusionStatisticsNetworkObjectPage">
+			<method name="SearchAllNetworkObjects"/>
+		</type>
+		<type fullname="Fusion.Statistics.FusionStatisticsRoot">
+			<method name="ToggleAnchorSide"/>
+			<method name="ToggleCollapse"/>
+			<method name="ToggleMultiPeerPanel"/>
+		</type>
+		<type fullname="Fusion.Statistics.MultipleOptionsPanel">
+			<method name="Close"/>
+		</type>
+	</assembly>
+	<assembly fullname="Unity.RenderPipelines.Core.Runtime" ignoreIfMissing="1">
+		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerButton">
+			<method name="OnAction"/>
+		</type>
+		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerIntField">
+			<method name="OnDecrement"/>
+			<method name="OnDecrement"/>
+			<method name="OnIncrement"/>
+			<method name="OnIncrement"/>
+		</type>
+		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerObjectPopupField">
+			<method name="OnDecrement"/>
+			<method name="OnIncrement"/>
+		</type>
+		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerPanel">
+			<method name="OnScrollbarClicked"/>
+			<method name="OnScrollbarClicked"/>
+			<method name="ResetDebugManager"/>
+		</type>
+		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerUIntField">
+			<method name="OnDecrement"/>
+			<method name="OnDecrement"/>
+			<method name="OnIncrement"/>
+			<method name="OnIncrement"/>
+		</type>
+	</assembly>
+	<assembly fullname="UnityEngine.CoreModule" ignoreIfMissing="1">
+		<type fullname="UnityEngine.GameObject">
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+		</type>
+	</assembly>
+	<assembly fullname="UnityEngine.UI" ignoreIfMissing="1">
+		<type fullname="UnityEngine.UI.Selectable">
+			<method name="set_interactable"/>
+			<method name="set_interactable"/>
+			<method name="set_interactable"/>
+			<method name="set_interactable"/>
+		</type>
+	</assembly>
+</linker>
