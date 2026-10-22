@@ -3,12 +3,18 @@
 > **"2인 플레이 협동 퍼즐 게임"**
 
 <p align="center">
-  <img src="Images/11.png" width="50%" alt="시작 화면">
-  <img src="Images/게임 플레이 2.jpg" width="50%" alt="게임 플레이 2">
+  <img src="Images/Guide 001.png" width="40%" alt="시작 화면">
+  <img src="Images/로비 001.png" width="40%" alt="게임 플레이 2">
 </p>
 
 <p align="center">
-  <img src="Images/게임 플레이 1.gif" width="80%" alt="게임 플레이 1">
+  <img src="Images/클리어 001.png" width="40%" alt="시작 화면">
+  <img src="Images/플레이 002.png" width="40%" alt="게임 플레이 2">
+</p>
+
+<p align="center">
+  <img src="Images/플레이 003.gif" width="80%" alt="게임 플레이 1">
+  <img src="Images/플레이 004.gif" width="80%" alt="게임 플레이 1">
 </p>
 
 ## 📌 프로젝트 개요
